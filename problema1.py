@@ -1,6 +1,5 @@
 
 import sys
-
 def min_damage(m, n, H, D):
     sum_h = sum(H)
     sum_d = sum(D)
